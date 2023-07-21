@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "firmata": "^2.3.0"
+  }
+}
