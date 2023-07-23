@@ -6,7 +6,7 @@ void setup() {
 void loop() {
   // que ping encendera
   digitalWrite(13, HIGH);
-  delay(1000); // se encendera 1s
+  delay(400); // se encendera 1s
   digitalWrite(13, LOW);
-  delay(400); // se apagara por 4ms
+  delay(1000); // se apagara por 4ms
 }
